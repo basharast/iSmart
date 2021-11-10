@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+     <color name="black_trans_dark">#CC000000</color>
+      <color name="black_trans_dark2">#EE000000</color>
+     <color name="black_trans">#99000000</color>
+      <color name="black_trans_2">#62000000</color>
+          <color name="red_trans">#99f90000</color>
+      <color name="red_trans_2">#62f90000</color>
+       <color name="green_trans">#9900f900</color>
+      <color name="green_trans_2">#6200f900</color>
+     <color name="blue">#ff1f2e5e</color>
+     <color name="gray">#ff3f4f5f</color>
+      <color name="gray_box">#ffd9d9d9</color>
+       <color name="black_box">#ff1a1a1a</color>
+       <color name="white_box">#fff6f6f6</color>
+       <color name="text_box">#ff006776</color>
+        <color name="darkgray_box">#ff808080</color>
+     <color name="light_blue">#ffd2d2d2</color>
+     <color name="white">#ffffffff</color>
+      <color name="dark_red">#8f0000</color>
+         <color name="actionbar_separator">#8f3f4f5f</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#ff000000</color>
+    <color name="actionbar_background_end">#ff000000</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+</resources>
