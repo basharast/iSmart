@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="176"><br>
   <b>iSmart Android Library, Used in the game below</b><br>
   <a href="./src">Source</a> |
-  <a href="#">XO Challenge Game(Link Soon)</a> 
+  <a href="https://play.google.com/store/apps/details?id=bashar.astifan.xochallenge">XO Challenge Game(Link Soon)</a> 
   <br><br>
   <img src="assets/screen.jpg"><br><br>
 </p>
